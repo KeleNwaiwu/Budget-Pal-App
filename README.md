@@ -2,7 +2,6 @@
 
 # BudgetPal - Expense Tracker and Budget Management App
 
-![BudgetPal Screenshot](C:\Users\kelen\OneDrive\Pictures\Screenshots\Budget Pal.png)
 
 BudgetPal is a user-friendly web-based application designed to simplify and enhance personal finance management. With BudgetPal, you can take control of your expenses, track your spending, and efficiently manage your budgets. Whether you're an individual looking to achieve financial goals or a family striving to maintain a balanced budget, BudgetPal offers a powerful and intuitive solution.
 
