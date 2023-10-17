@@ -5,6 +5,8 @@
 
 BudgetPal is a user-friendly web-based application designed to simplify and enhance personal finance management. With BudgetPal, you can take control of your expenses, track your spending, and efficiently manage your budgets. Whether you're an individual looking to achieve financial goals or a family striving to maintain a balanced budget, BudgetPal offers a powerful and intuitive solution.
 
+![BudgetPal Preview]([https://github.com/yourusername/yourrepository/blob/main/path/to/your/image.png](https://github.com/KeleNwaiwu/Budget-Pal-App/blob/2ccc068f7d7a2eaa66ba7cff8ebfa4f60493dbb5/Budget%20Pal.png))
+
 ## Key Features
 
 - **Multi-Budget Management:** Create and manage multiple budgets for various financial goals and categories.
